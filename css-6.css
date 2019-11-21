@@ -1,0 +1,40 @@
+﻿@charset "UTF-8";.container{display:table;table-layout:fixed;width:100%;zoom:1}.navigationSideBar{width:150px;display:table-cell;vertical-align:top;*float:left}.navigationSideBar
+.heading{border-top-right-radius:0;margin:0}.navigationSideBar .section:first-child{margin-top:0}.navigationSideBar .section:last-child{margin-bottom:0}.navigationSideBar
+.primaryContent{font-size:12px}.navigationSideBar
+.secondaryContent{color:rgb(255,255,255)}.navigationSideBar
+a{display:block;padding:5px
+10px;word-wrap:normal;overflow:hidden;text-overflow:ellipsis;color:rgb(134, 165, 197)}.navigationSideBar a:hover{color:rgb(255,255,255);text-decoration:none}.mainContentBlock{display:table-cell;vertical-align:top;margin:0;*margin-left:150px;zoom:1}@media (max-width:480px){.Responsive
+.navigationSideBar{display:block;position:relative;margin:0
+auto;width:200px;box-sizing:border-box}.Responsive .navigationSideBar
+.heading{margin:0;border-top-right-radius:;border-bottom:0;text-align:center;cursor:pointer}.Responsive .navigationSideBar .heading
+span{background:transparent url('styles/default/xenforo/xenforo-ui-sprite.png') no-repeat -64px 0;margin-top: -2px;margin-left:2px;display:inline-block;*margin-top:0;vertical-align:middle;width:13px;height:14px}.Responsive .navigationSideBar>ul{display:none;position:absolute;background:url(rgba.png);background:rgba(39, 44, 55, 0.8);_filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC272C37,endColorstr=#CC272C37);border:1px
+solid rgb(58, 86, 146);box-shadow:5px 5px 25px rgba(0,0,0, 0.5);border-top:none;width:200px;box-sizing:border-box;z-index:51}.Responsive .navigationSideBar>ul.menuVisible{display:block}.Responsive .navigationSideBar .section:last-child li:last-child
+a{border-bottom:none}html.Responsive:not(.hasJs) .navigationSideBar:hover>ul{display:block}.Responsive
+.mainContentBlock{display:block}}#loginBar{color:rgb(134, 165, 197);background-color:rgb(36, 41, 53);position:relative;z-index:1}#loginBar
+.ctrlWrapper{margin:0
+10px}#loginBar
+.pageContent{padding-top:0;position:relative;_height:0px}#loginBar
+a{color:rgb(255,255,255)}#loginBar
+form{padding:10px
+0;margin:0
+auto;display:none;line-height:20px;position:relative}#loginBar .xenForm .ctrlUnit,
+#loginBar .xenForm .ctrlUnit > dt
+label{margin:0;border:none}#loginBar .xenForm .ctrlUnit>dd{position:relative}#loginBar .lostPassword,
+#loginBar
+.lostPasswordLogin{font-size:11px}#loginBar
+.rememberPassword{font-size:11px}#loginBar
+.textCtrl{font-size:15px;color:rgb(255,255,255);background-color:rgb(58, 86, 146);border-style:none}#loginBar .textCtrl[type=text]{}#loginBar .textCtrl:-webkit-autofill{background:rgb(58, 86, 146) !important;color:rgb(255,255,255)}#loginBar .textCtrl:focus{background:rgb(59, 89, 152) none}#loginBar
+input.textCtrl.disabled{color:rgb(112,147,192);background-color:rgb(59, 89, 152);border-style:dashed}#loginBar
+.button{min-width:85px;*width:85px}#loginBar
+.button.primary{font-weight:bold}#loginBar
+form.eAuth{-x-max-width:700px}#loginBar form.eAuth
+.ctrlWrapper{border-right:1px dotted rgb(45, 52, 68);margin-right:200px;box-sizing:border-box}#loginBar form.eAuth
+#eAuthUnit{position:absolute;top:0px;right:10px}#eAuthUnit
+li{margin-top:10px;line-height:0}#loginBar
+#loginBarHandle{font-size:11px;color:rgb(15,8,3);background-color:rgb(36, 41, 53);padding:0
+10px;margin-right:20px;border-bottom-right-radius:10px;border-bottom-left-radius:10px;position:absolute;right:0px;bottom: -20px;text-align:center;z-index:1;line-height:20px;box-shadow:0px 2px 5px rgb(36, 41, 53)}@media (max-width:800px){.Responsive #loginBar form.eAuth
+.ctrlWrapper{border-right:none;margin-right:10px}.Responsive #loginBar form.eAuth
+#eAuthUnit{position:static;width:180px;margin:0
+auto 10px}}.natMenuLevel0{padding-left:0px}.natMenuLevel1{padding-left:10px}.natMenuLevel2{padding-left:20px}.natMenuLevel3{padding-left:30px}.natMenuLevel4{padding-left:40px}.natMenuLevel5{padding-left:50px}.natMenuLevel6{padding-left:60px}.natMenuLevel7{padding-left:70px}.natMenuLevel8{padding-left:80px}.natMenuLevel9{padding-left:90px}.natMenuLevel10{padding-left:100px}div.natJSMenuColumns{background-color:rgb(39, 44, 55);background-color:rgba(39, 44, 55, 0.96)}div.natJSMenuColumns
+ul{float:left;border-bottom:0px;background-color:transparent !important;max-height:none !important}
+/* CSS returned from cache. */
